@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding:0;
+}
+.logo{
+	height:60px;
+}
+.container{
+	height:100%;
+}
+.item_1{
+	width:calc(100%/7);
+	border:1px solid white;
+}
+.s1{
+	border:1px solid white;
+}
+.link{
+	color:black;
+}
+.nav{
+	height:767px;
+	text-align: center;
+}
+img{
+	width:100%;
+}
